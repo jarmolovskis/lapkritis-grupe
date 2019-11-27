@@ -26,7 +26,7 @@
 	    </div>
 	  </nav>
 
-	  <h1>Kontaktai</h1>
+	  <h1> Įmonės Kontaktai</h1>
 
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
