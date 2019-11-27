@@ -34,6 +34,16 @@
 		  		<img class="responsive-img" src="https://picsum.photos/seed/4/800">
 		  		<p class="center-align">Antraštės tekstas</p>
 		  	</div>
+			
+			<div class="col s12 m6 l3">
+		  		<img class="responsive-img" src="https://picsum.photos/seed/3/800">
+		  		<p class="center-align">Antraštės tekstas</p>
+		  	</div>
+
+		  	<div class="col s12 m6 l3">
+		  		<img class="responsive-img" src="https://picsum.photos/seed/4/800">
+		  		<p class="center-align">Antraštės tekstas</p>
+		  	</div>
 
 		</div>
 	</div>
